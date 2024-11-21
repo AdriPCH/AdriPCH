@@ -6,12 +6,8 @@ SOFTWARE ENGINEERING STUDENT
 ¡Hi! I'm Adri, currently a 5th-semester student in the Software Engineering program at the Peruvian University of Applied Sciences (UPC), with a strong academic foundation and robust programming skills, passionate about technology.
 <br>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
+- 🌱 I’m currently learning many things.
+- Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and 🎥 watching movies.
 - <p style="display: flex; align-items: center; gap: 8px;"> 💻 Visit my 
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 20px; height: 14px;" />
   <a href="https://www.linkedin.com/in/adriana-palomares-chávez-52723620b" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;">
@@ -24,12 +20,6 @@ SOFTWARE ENGINEERING STUDENT
 <img src="https://skillicons.dev/icons?i=gmail alt="gmail" style="width: 20px; height: 14px;" /> Contac: sammy03pch@gmail.com
   </p>
   
- <p style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 20px; height: 14px;" />
-  <a href="https://www.linkedin.com/in/adriana-palomares-chávez-52723620b" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;">
-    LinkedIn
-  </a>
-</p>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
