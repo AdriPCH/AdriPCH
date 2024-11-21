@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning many things.
 - Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and 🎥 watching movies.
 - <p style="display: flex; align-items: center; gap: 8px;"> Contact:
-  <img src="https://skillicons.dev/icons?i=gmail alt="gmail" style="width: 20px; height: 14px;" />  gmail: sammy03pch@gmail.com
+  <img src="https://skillicons.dev/icons?i=gmail alt="gmail" style="width: 20px; height: 14px;" /> mail: sammy03pch@gmail.com
   </p>
   
 - <p style="display: flex; align-items: center; gap: 8px;"> 💻 Visit my 
