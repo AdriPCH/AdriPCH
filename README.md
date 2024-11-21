@@ -5,9 +5,9 @@ SOFTWARE ENGINEERING STUDENT
   
 ¡Hi! I'm Adri, currently a 5th-semester student in the Software Engineering program at the Peruvian University of Applied Sciences (UPC), with a strong academic foundation and robust programming skills, passionate about technology.
 
-<img width="1000px" src="https://skillicons.dev/icons?i=gmail" /> Contac: **sammy03pch@gmail.com**
+<img src="https://skillicons.dev/icons?i=gmail" /> Contac: **sammy03pch@gmail.com**
   </p>
-  <img width="1000px" src="https://skillicons.dev/icons?i=linkedin" /> [Linkedin](www.linkedin.com/in/adriana-palomares-chávez-52723620b)
+  <img src="https://skillicons.dev/icons?i=linkedin" /> [LinkedIn](https://www.linkedin.com/in/adriana-palomares-chávez-52723620b)
   </p>
 
 <br>
