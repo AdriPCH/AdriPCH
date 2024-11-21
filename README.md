@@ -14,7 +14,7 @@
     LinkedIn
   </a>
 </p>
- - <p style="display: flex; align-items: center; gap: 8px;"> Contac:
+ - Contact: <p style="display: flex; align-items: center; gap: 8px;"> 
 <img src="https://skillicons.dev/icons?i=gmail alt="gmail" style="width: 20px; height: 14px;" />  gmail: sammy03pch@gmail.com
   </p>
   
