@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adriana <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="left">
-<h3> SOFTWARE ENGINEERING STUDENT</h3>
+<h4> <i> SOFTWARE ENGINEERING STUDENT </i> </h4>
   
 ¡Hi! I'm Adri, currently a 5th-semester student in the Software Engineering program at the Peruvian University of Applied Sciences (UPC), with a strong academic foundation and robust programming skills, passionate about technology.
 <br>
