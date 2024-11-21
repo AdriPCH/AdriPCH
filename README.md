@@ -7,7 +7,7 @@ SOFTWARE ENGINEERING STUDENT
 
 <img src="https://skillicons.dev/icons?i=gmail" /> Contac: **sammy03pch@gmail.com**
   </p>
-  <img src="https://skillicons.dev/icons?i=linkedin" /> <a href="https://www.linkedin.com/in/adriana-palomares-chávez-52723620b" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;">
+  <img src="https://skillicons.dev/icons?i=linkedin" <a href="https://www.linkedin.com/in/adriana-palomares-chávez-52723620b" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;"> /> 
     LinkedIn
 </a>
   </p>
