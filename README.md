@@ -1,5 +1,17 @@
 <h1 align="center">Hi, I'm Adriana <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
+<p align="left">
+SOFTWARE ENGINEERING STUDENT
+  
+¡Hi! I'm Adri, currently a 5th-semester student in the Software Engineering program at the Peruvian University of Applied Sciences (UPC), with a strong academic foundation and robust programming skills, passionate about technology.
+
+<img width="1000px" src="https://skillicons.dev/icons?i=gmail" /> Contac: **sammy03pch@gmail.com**
+  </p>
+  <img width="1000px" src="https://skillicons.dev/icons?i=linkedin" /> [Linkedin](www.linkedin.com/in/adriana-palomares-chávez-52723620b)
+  </p>
+
+<br>
+
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
